@@ -22,7 +22,7 @@ toolbar.addEventListener('change', e => {
     }
 
     if(e.target.id === 'lineWidth') {
-        lineWidth = e.target.value;
+        lineWidth = e.target.value
     }
     
 });
